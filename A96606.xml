@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peace, and no peace: or, a pleasant dialogue betweene Phil-eirenus, a protestant, a lover of peace. And Philo Polemus, a separatist, an incendiary of War, sutable [sic] to the times. By Richard Williams, Master in Arts of the famous University of Cambridge, and preacher in London at Saint Martins Vintrey.</title>
+            <author>Williams, Richard, b. 1606 or 7.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96606</idno>
+            <idno type="STC">Wing W2754</idno>
+            <idno type="STC">Thomason E84_18</idno>
+            <idno type="STC">ESTC R8487</idno>
+            <idno type="EEBO-CITATION">99873324</idno>
+            <idno type="PROQUEST">99873324</idno>
+            <idno type="VID">155650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155650)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peace, and no peace: or, a pleasant dialogue betweene Phil-eirenus, a protestant, a lover of peace. And Philo Polemus, a separatist, an incendiary of War, sutable [sic] to the times. By Richard Williams, Master in Arts of the famous University of Cambridge, and preacher in London at Saint Martins Vintrey.</title>
+                  <author>Williams, Richard, b. 1606 or 7.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "January. 5 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:155650:1" rendition="simple:additions"/>
+            <head>Peace, and No Peace: Or, A Pleaſant Dialogue Betweene <hi>Phil-eirenus,</hi> A Proteſtant, <hi>A lover of Peace.</hi> And <hi>Philo Polemus,</hi> A Separatiſt, <hi>An Incendiary of War,</hi> Sutable to the times.</head>
+            <byline>By <hi>R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chard Williams.</hi> Maſter in Arts of the famous Univerſity of <hi>Cambridge,</hi> and Preacher in <hi>London</hi> at Saint <hi>Martins Vintrey.</hi>
+            </byline>
+            <epigraph>
+               <q>
+                  <bibl>Pſal 123 6,7.</bibl> 
+                  <p>Oh pray for the <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eace of <hi>Ieruſalem,</hi> they ſhall proſper that love thee. Peace be with<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n thy wa<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and plenteouſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſſe within thy Palaces, <hi>ſaith Phil-eirenus.</hi>
+                  </p>
+               </q>
+               <q>
+                  <bibl>Pſal. 48.22.</bibl> 
+                  <p>No peace ſaith my God to the wicked, <hi>ſaith Philo-Polemus</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <sp>
+               <speaker>
+                  <hi>Phil-eirenus</hi> begins.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Ell met good brother <hi>Philo-Polemus,</hi> you are very early here this mor<g ref="char:EOLhyphen"/>ning, you looke very cheerfully! Me thinks the alacrity of your coun<g ref="char:EOLhyphen"/>tenance divines ſome ſudden Accomodation between the King and His Parliament. What newes at <hi>Weſtminſter, Is it Peace?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil-Pol.</speaker>
+               <p>I ſaw indeed a pretended Petition for Peace (this day) with great ac<g ref="char:EOLhyphen"/>clamations preſented to the High Court of Parliament by the <hi>City Cavellero<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> deceiving and deluding many Orthodox Schiſmaticks, foſtered &amp; countenanced by a company of upſtart malignants, that never contributed any thing to the Par<g ref="char:EOLhyphen"/>liament, but have been averſe to all proceedings: And becauſe the wiſedome of the Parliament had agreed upon an Order for the ſeſſing of the twentieth part of every mans eſtate towards the charge of this war, theſe malignants therefore (ha<g ref="char:EOLhyphen"/>ving no reſolution to ruine themſelves) have raiſed a party within the City among themſelves, that ſo they might ſave their eſtates, and contribute nothing to the
+<pb facs="tcp:155650:2"/>publicke weale: that although there may be ſomething compriſed in the petition, hat (in theſe diſtracted times) may be tollerable; yet in that it proceeded from the Academicke malignants at <hi>Oxford,</hi> even that alone is ſufficient to make it con<g ref="char:EOLhyphen"/>temptible.</p>
+            </sp>
+            <sp>
+               <speaker>Phil-eirenus.</speaker>
+               <p>Thou ſeemeſt to me [<hi>Brother Philo-Polemus</hi>] to be too cenſo<g ref="char:EOLhyphen"/>rious and prejudicate of the actions and intentions of other men. What though the religious, loyall, and true-hearted Proteſtants, in and about the Cities of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Weſt minſter</hi> (in theſe deplorable times) have petitioned for an accommo<g ref="char:EOLhyphen"/>dation of peace, does it follow therefore that they are malignants? Nothing leſſe: For if you rightly underſtand the terme [Malignant] you ſhall eaſily find that it fetches its derivation from <hi>malus</hi> and <hi>ignis,</hi> an evill fire; ſo that Malignant and In<g ref="char:EOLhyphen"/>cendiary ſeeme to co-incide in one, as twins borne at one conception, ſpeaking one and the ſelfe ſame thing: it muſt of neceſſity therefore be granted, that the God of peace having deſcended into our hearts, which moved us to carry the pe<g ref="char:EOLhyphen"/>tition for peace in our hands hoping ere long (by the propitiouſneſſe of Heaven) to bring the Olive-branch of peace in our mouthes [the long wiſhed for accom<g ref="char:EOLhyphen"/>modation between our gracious King and his grave Senate] that we are cleate from that ſcandalous and malicious aſperſion of Malignants or ſncendiaries, broa<g ref="char:EOLhyphen"/>ched by thoſe who wiſh ill to Syon, that are profeſſed enemies to the peace and tranquillity of our Jeruſalem, that aime at nothing more then the overture and ſubverſion of the wholeſome Doctrine and diſcipline of the Church, and the finall extermination of a quiet and peaceable government from the very bounds and borders of the kingdome, ſayling from the calme Ocean, the ſtill waters, the Chryſtall ſtreames of the ſacred and eternall Word of God, ſo long profeſſed and maintained by the Proteſtant Tenets, expoſing themſelves to the dangerous ſhelves of ſchiſme and ſedition, daſhing upon the rocke of their owne pride and preſumption, being toſſed up and downe with the variable wind of every aery doctrine, and delighting to plunge themſelves in the troubled waters of ſchiſmati<g ref="char:EOLhyphen"/>call perturbations. Let ſuch perverters and diſturbers of the peace as theſe, be branded on their fore-heads with the ignominious name of [Malignants] to po<g ref="char:EOLhyphen"/>ſterity; may the diſtempers that they are hatching in the publicke weale be reta<g ref="char:EOLhyphen"/>liated in a perpetuall diſtraction upon themſelves; may the miſchiefe they con<g ref="char:EOLhyphen"/>trive againſt the Lord and his Anointed fall upon their owne pates; may they be Vagabonds upon the face of the earth, and let God ſcatter the people that delight in war.</p>
+            </sp>
+            <sp>
+               <speaker>Philo-Pol.</speaker>
+               <p>Patience a while [<hi>Good brother Phil-eirenus</hi>] you ſeeme to taxe me of too much cenſoriouſneſſe (I ſuddenly giving up my verdict upon the actions of other men) and you your ſelfe fall to execrations; the remedy proves worſe then the diſeaſe, your admonitions are turned into <hi>Anathema's;</hi> you ſeeme to reprove me of one errour, being guilty of a greater: But (waving thoſe curſed execrations,
+<pb facs="tcp:155650:2"/>as not having any reference to us, or any of the brethren, (who are the onely elect and choſen people of God) I muſt tell you (brother) you have overſlipt the maine force and binge whereupon the ſtrength of the Argument turnes, <hi>viz.</hi> The petiti<g ref="char:EOLhyphen"/>oners for peace muſt of neceſſity be very malignant, becauſe their factious and ſe<g ref="char:EOLhyphen"/>ditious Petition was firſt drawne up at <hi>Oxford,</hi> the contagion of whoſe malignan<g ref="char:EOLhyphen"/>cie is ſpread five miles about the Univerſity, where ere the Cavalieroes foame out their infection breath, this Petition was ſent hither to breed diſtraction in the City, and foſtered by a company of malignants that never contributed any thing to the Parliament for the maintenance of the Cauſe, but have been averſe to all proceedings.</p>
+            </sp>
+            <sp>
+               <speaker>Phil-eir.</speaker>
+               <p>Not too haſty [<hi>Good brother Philo-Polemus</hi>] let no raſh or unadviſed imputation be caſt upon that famous Univerſity; it is not the place that makes the thing malignant, but the thing the place; for there is no place ſo good, but it may participate of evill, and there is no place ſo evill, but ſome good may proceed from it. Shall I contemne a reſplendent Diademe, becauſe happily it may be caſt upon the ground? Shall I ſcorne a tranſparent Diamond, becauſe I find it in a con<g ref="char:EOLhyphen"/>temptible dunghill? Shall I make no eſtimat of moſt precious and Orientall Gold, becauſe it was raked out of a miry and lothſome channell? Wee'le grant, the foun<g ref="char:EOLhyphen"/>taines may be corrupted, the Univerſities themſelves ſtained with Arminianiſme, and other erroneous Principles (being fallen from their Originall Purity) yet ſhall there no good thing come out of <hi>Nazareth?</hi> Or ſhall that which is the raviſhing joy of Angels, the ſweet conſociation of men, the inſeparable glew that ſettles and unites States and Kingdomes in the firme conjunction and bond of peace, be counted contemptible, becauſe it fetches it's Originall from an Univerſity? No<g ref="char:EOLhyphen"/>thing more ridiculous! I have obſerved the Bees gathering honey from Hem<g ref="char:EOLhyphen"/>locke, Hellebore, moſt venomous and poyſonous herbs. I have knowne an Alcu<g ref="char:EOLhyphen"/>miſt extract ſome precious diſtillation from the baſeſt minerals: And it is the ob<g ref="char:EOLhyphen"/>ſervation of Philoſophers, that the pureſt gold is moſt abundant, that growes in a barren and unfruitfull ſoyle: For my part, I am ſo far from conceiving, that the greateſt good may not be extracted from the greateſt evill, that I would willingly embrace wholſome admonition, though it were fecht from the bottomleſſe pit of hell; But I know (brother) what makes your rancour ſwell, 'tis the very name of an Univerſity then which nothing amongſt the vulgar is more contemptible; as the ſaying goes, <hi>Scientia non habet inimicum, niſi ignorantem,</hi> Knowledge hath no greater enemy then ignorance, there ſeemes to be a mortall enmity, a ſecret anti<g ref="char:EOLhyphen"/>pathy, between the ſublime knowledge of a well grounded Academian, and the incomparable ignorance of a mechanicke Divine: ſo then were there nothing more diſtaſtefull in the petition of peace, then that it proceeded from the Univer<g ref="char:EOLhyphen"/>ſity, I perceive you would like it well, it were dangerous to foſter it here in the City, away with it, 'tis infected with learning.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:155650:3"/>
+               <speaker>Philo-Pol.</speaker>
+               <p>Truly [<hi>Brother Phil-eirenus</hi>] 'tis confeſt what you have a leadged is very materiall: For we having ſuch an illumination of the ſpirit, and that in an abundant manner, have we any reaſon then (except it be in the ſociety of wo<g ref="char:EOLhyphen"/>men) to deſcend to carnall knowledge? Being carryed by the ſpirit into the wil<g ref="char:EOLhyphen"/>derneſſe of Prayer, is there any ſence we ſhould confine our ſelves to an Univer<g ref="char:EOLhyphen"/>ſity Petition? Beſides, what congruity or agreement can there be between light and darkneſſe, between Chriſt and Belial, between a conſtant Separatiſt, and a backſliding Proteſtant? What peace (alas) can be expected, whileſt the whore<g ref="char:EOLhyphen"/>dome of the Romiſh Church is yet diſpenſed withall amongſt us?</p>
+               <p>The prophane Lyturgy ſtill babled out by the P. of Baal?</p>
+               <p>The conjuration of the Letany, by the Magicke of infernall Doctors, ſtill tor<g ref="char:EOLhyphen"/>menting us?</p>
+               <p>The abominable Idolatry of the Croſſe in Baptiſme, ſtill afflicting us?</p>
+               <p>Nay, the Lords Prayer it ſelfe (notwithſtanding the extemporary ſupplications that are compoſed by the help of the ſpirit) frequently uſed (by the Canturburian Maſſe-prieſts) in moſt Aſſemblies.</p>
+            </sp>
+            <sp>
+               <speaker>Phil eir.</speaker>
+               <p>Wherein <hi>(Brother Philo-Polemus)</hi> doeſt thou conceive the whore<g ref="char:EOLhyphen"/>dome of the Romiſh Church principally conſiſts, which you ſay is as yet diſpen<g ref="char:EOLhyphen"/>ced withall amongſt us.</p>
+            </sp>
+            <sp>
+               <speaker>Philo-Pol.</speaker>
+               <p>In this eſpecially, that the Prelaticall party (notwithſtanding theſe times of through Reformation) ſtill retaine in their Synagogues that prophane cu<g ref="char:EOLhyphen"/>ſtome of wearing ſurplices, which (indeed) are nothing elſe but the remnants of Idolatry, the rags of ſuperſtition; and (as my wife very learnedly and zealouſly opened the caſe unto me the laſt night) they may juſtly be called the contamina<g ref="char:EOLhyphen"/>ted ſmocks of the Romiſh whore.</p>
+            </sp>
+            <sp>
+               <speaker>Phil-eir.</speaker>
+               <p>Herein thou art miſtaken <hi>(Sweet Brother)</hi> For our Miniſters weare them not as the rags of Idolatry, but as the Robes of Sanctification; and if you rightly underſtand that place of the <hi>Revelations,</hi> that the Saints are ſaid to be clo<g ref="char:EOLhyphen"/>thed in white garments, you muſt of neceſſity conclude, that it is very commen<g ref="char:EOLhyphen"/>dable for the Clergy to weare the white veſtments of purity in the Church Mili<g ref="char:EOLhyphen"/>tant here, that they may be inveſted with the ſhining robes of glory in the Church triumphant hereafter.</p>
+            </sp>
+            <sp>
+               <speaker>Philo-Pol.</speaker>
+               <p>You ſpeake ſo much out of reaſon <hi>(Good Brother Phil-eierenus)</hi> that I have neither ſence nor reaſon to beleeve what you ſay; for we worke by faith, not by ſight; Away then with all Academicke Divines, thoſe Mercurials of Reli<g ref="char:EOLhyphen"/>gion, that ſtand condemned of the high Treaſon of Learning, that ſtand upon Phi<g ref="char:EOLhyphen"/>loſophicall obſervations, Logicall concluſions, reaſon, ſence, and I know not what; As if the Dictates of Reaſon the Demonſtration of ſenſe, or ſuch like diſtractions, were ſurable to piety and divine Illuminations. We are bound in conſcience (in an holy zeale) to ſpeake in outragious ſpleene againſt the Lyturgy of the
+<pb facs="tcp:155650:3"/>Church, which is generally condemned, even by our moſt perſpicuous, ſage and Orthodox Corch-men, feeling Pelt-makers, and upright Chimney-ſweepers: Nay, it is growne contemptible to our feminine Divines, whoſe ſquinting eyes are ſcornfully turned another way, as not daring to looke upon ſuch prophane<g ref="char:EOLhyphen"/>neſſe. It is a Papaniſh and Miſcrean terme, I would ſooner endure the Alcoron amongſt the Turks, then the Liturgy amongſt Chriſtians, it is a difficult word, and in my ſhallow apprehenſion, either Greeke, or Latine, or both: you are a good lin<g ref="char:EOLhyphen"/>guiſt (brother) let us heare your opinion.</p>
+            </sp>
+            <sp>
+               <speaker>Phil-eire.</speaker>
+               <p>It is a word compoſed of both, and if you rightly underſtood it (<hi>deare Brother Philo-Polemus</hi>) you would a atedomething of your cenſure, the Li<g ref="char:EOLhyphen"/>turgy is a word compounded of <hi>Li<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> a Latine word, which ſignifieth ſtrife, and <hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </hi> a Greeke word, which ſignifieth a worke, put them together, and you ſhall find Liturgy to be nothing elſe but <hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Lit<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, A worke of strife or contextion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Philo-Pol.</speaker>
+               <p>Wretched man! that have been brought up in ignorance all my time; had I knowne the Liturgy had been interpreted, <hi>A worke of ſtrife and divi<g ref="char:EOLhyphen"/>ſior,</hi> I ſhould willingly have embraced it long before; for I (with the reſt of my Brethren of Amſterdam) love, like the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> called Scolopendra, to ſwim up and downe in troubled waters and Salamander-like delight to live in the fire of con<g ref="char:EOLhyphen"/>tention: well (Liturgy) for thy works ſake) I ſhall have the better opinion of thee hereafter. Goe and proſper.</p>
+            </sp>
+            <sp>
+               <speaker>Phil-eire.</speaker>
+               <p>Well then, avoiding this Liturgy, as a thing whereof we are abſo<g ref="char:EOLhyphen"/>lutely ignorant, uncapable, and undeferving; Let the Letany ſpeake for it ſelfe, me thinks you ſeeme to lay an imputation upon that, whileſt you call it, <hi>The conjura<g ref="char:EOLhyphen"/>tion of the Letany, by the magicke of infernall Doctors ſtill tormenting us?</hi> What di<g ref="char:EOLhyphen"/>ſtractions there? What diſturbance of the publicke Peace?</p>
+            </sp>
+            <sp>
+               <speaker>Phil-Pol.</speaker>
+               <p>Me thinks <hi>(Brother Phil-eirenus)</hi> I heare ſome hideous noiſe in the ayre, the violence whereof offendeth my chaſte eares, like a clap of thunder that breaks through the clouds, or that dreadfull roaring of Lyons from their dens, or rather the bellowing of the Buls of Baſan, when I heare them roaring aloud in <hi>Weſtminſter,</hi> and other Cathedrals (though <hi>Pauls</hi> by the wiſedome of the now Lord Maior is ſhut up for feare of further infection) in thoſe conjuring termes, <hi>By thine agony and bloudy ſweat, By thy Cr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe and Paſſion, By thy precious death and buriall, By thy glorious Reſurrection, and Aſcenſion,</hi> &amp;c. It would make patience it ſelfe impatient, and admiration it ſelfe ſtand amazed to heare ſuch horrid pro<g ref="char:EOLhyphen"/>phaneneſſe? Can there be a greater diſturbance of the peace and unity of the Church then this?</p>
+            </sp>
+            <sp>
+               <speaker>Phil-eirer.</speaker>
+               <p>I think thou art beſide thy ſelfe, (brother <hi>Phllo-polemus</hi>) much ig<g ref="char:EOLhyphen"/>norance hath made thee mad: Can the violence of Prayer, wherewith wee pierce heaven gates, and approach neare the Pavilion and throne of glory, be without execrable profaneneſſe termed conjuration? or can the fervency of our
+<pb facs="tcp:155650:4"/>ſupplication, intimated here by the often repetition thereof, <hi>By thine agony as bloody ſweat, by thy croſſe and paſſion, &amp;c.</hi> (without the groſſeſt injury offered to that ſacred performance) be termed the diſturbance of the Churches peace?</p>
+            </sp>
+            <sp>
+               <speaker>Philo-pol.</speaker>
+               <p>Truly (brother) you have given me good ſatisfaction in this point, ſuch as I could never receive from my brethren of Amſterdam; enough of that: But there is one thing more that plunders my braines, wherewith I'le torment your patience, and crave your reſolution upon the queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Phil-eiren.</speaker>
+               <p>Let me pry into the ſecret crannies of your conſcience, let me know the ſcruple that ſo much perplexeth your <hi>pericranium;</hi> and I will reſolve you with as much diſcretion as I have done the former.</p>
+            </sp>
+            <sp>
+               <speaker>Philo-pol.</speaker>
+               <p>That which moſt diſtempers my zeale, and gives an ill farwell to my devotion (which is very ſmall) is that clauſe at the laſt gaſpe of the Letany, <hi>Give peace in our time O Lord,</hi> with which I well hoped the Letany would have expired, but contrary to expectation it is revived.</p>
+            </sp>
+            <sp>
+               <speaker>Phil-eiren.</speaker>
+               <p>I ſee what ſtraine you are of now <hi>(Philo-polemus)</hi> you appeare in the right colours, you are of your father the Devill, that blood-thirſty fiend; an hereticall Schiſmaticke, a Jeſuited Anabaptiſt, a chip of that old block-head <hi>Browne</hi> your ghoſtly Father, whoſe faſhion is faction,
+<note place="margin">Mr <hi>Will. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rowne</hi> an Eſſex Gentleman, the Author of this Sect, from whom ever ſince they were cal<g ref="char:EOLhyphen"/>led <hi>Browaiſts.</hi>
+                  </note> whoſe Religion is Rebellion, whoſe Patrimony is Parricide, your Sanctuaries are turned into places of Butchery, your Acade<g ref="char:EOLhyphen"/>mies into <hi>Aceldama's,</hi> ſetting your pious reſolutions upon im<g ref="char:EOLhyphen"/>pious and bloody deſignes! Away with ſuch bloody incen<g ref="char:EOLhyphen"/>diaries and fomenters of war, theſe fire brands of hell, <hi>My ſoule ſit not thou in their Councell; Peace be in our time O Lord:</hi> Peace, the ſwee<g ref="char:EOLhyphen"/>teſt monoſyllable in the world, the breath of our noſtrills, the joy and Crowne of our lives, the ſweet ſolacing haven of all perturbations.</p>
+            </sp>
+            <sp>
+               <speaker>Philo-pol.</speaker>
+               <p>The day is yours, I am forced to yeeld you have the better of it, my <hi>Phil-eirenus,</hi> I ſee it is as poſſible ſomtimes to prevaile by ſtrength of argu<g ref="char:EOLhyphen"/>ment, as by the aſſiſtance of the Spirit; for this tricke alone I ſhall have the better opinion of humane learning while I breath; the firſt thing I undertake ſhall be to make my ſelfe capable of Reaſon and Common ſenſe. But there is one ſcruple more that croſſes my mind, which is, <hi>The abominable idolatry of the Croſſe in Baptiſme ſtill afflicting us,</hi> which is nothing elſe (as I conceive) but a Rellick of Romiſh Superſtition, the Mark of the Beaſt, the ſigne and character of the Purple Whore.</p>
+            </sp>
+            <sp>
+               <speaker>Phil-eiren.</speaker>
+               <p>It is confeſſed (brother <hi>Philo-polemus</hi>) that this Ceremony, in ſigning the children with the ſigne of the Croſſe, fetches its originall from the Church of Rome: for in the reigne of <hi>Constantine</hi> the Great, who had the re<g ref="char:EOLhyphen"/>nowne to be called the firſt Chriſtian Emperour, the Generall Councell conclu<g ref="char:EOLhyphen"/>ded, that in defiance of Pagans, Turkes, and Infidels, the Children of Chriſtians
+<pb facs="tcp:155650:4"/>and believing Parents ſhould bee ſigned with the ſigne of the Croſſe; which Croſſe was their Banner, that put courage and magnanimity into their hearts, when they marched againſt their enemies: hence it came to paſſe, that in pro<g ref="char:EOLhyphen"/>ceſſe of time this laudable cuſtome was tranſlated from the <hi>Romans</hi> to the <hi>Bri<g ref="char:EOLhyphen"/>tans,</hi> when children are baptiſed to ſigne them with the ſigne of the Croſſe; which (though oppoſed by the ſchiſmaticall faction) is ſtill continued amongſt the orthodoxe Divines, not ſavouring of any Romiſh ſuperſtition, but only as an outward ſigne of their inward Profeſsion:
+<note place="margin">
+                     <hi>Aug. l.</hi> 3. <hi>de Baptif.</hi>
+                  </note> which made an holy Father cry out in extaſie and admiration of this laudable Ceremony, <hi>Non oc<g ref="char:EOLhyphen"/>culte loquor, ſed fronte gero,</hi> I ſpeak not privately, or ſecretly, as though I were aſhamed of my ſelfe or my Profeſsion but I have ſomething to ſhew for it, I carry it in my forehead, as the banner of my Lord and Maſter, where with I will fight manfully againſt the Fleſh, the World, and the Devill. I confeſſe the Croſſe in Baptiſme makes nothing to the eſſentiality of the Sacrament, indiffe<g ref="char:EOLhyphen"/>rent in it ſelfe, but being impoſed by authority of the Church, I cannot tell how I ſhould excuſe the neceſſary uſe thereof. Now becauſe ſuch is the frontles impu<g ref="char:EOLhyphen"/>dence of the Anabaptiſtical party that they dare affirm there is no pregnant proof in Scripture of this commendable Ceremony, to their eternall ſhame let them look upon that place in the <hi>Revelations, Hurt not the earth, nor the ſea, nor the trees, untill we have ſealed the ſervants of our God in their foreheads, Rev.</hi> 7.3. which though it be principally meant of the ſpirituall and myſticall, <hi>viz.</hi> an inſeparable union and knitting of our hearts to Chriſt by faith, yet the alluſion is made (ac<g ref="char:EOLhyphen"/>cording to the moſt learned Expoſitors) to the ſealing of infants in holy baptiſme with the ſigne of the Croſſe. Now to thoſe that have in their infancy bin ſigned with the ſigne of the Croſſe, and humbly acknowledge it to be a Badge of Chri<g ref="char:EOLhyphen"/>ſtianity, it is the ſeale of the ever-living God; but to thoſe that have been ſigned there with, and terme it the idolatrous Croſſe, to ſuch it is the mark of the Beaſt: which I rather beleeve, becauſe it proceeds from beſtiall and ſenſuall ignorance. Therefore (deare Brother) be not aſhamed of that Croſſe, which is the renown of Chriſtians, but <hi>if thou glorieſt in any thing, let it bee in the Croſſe of Chriſt leſus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Philo-Pol.</speaker>
+               <p>Well <hi>(Brother Phil eirenus)</hi> thou haſt almoſt perſwaded me to be a Chriſtian.</p>
+            </sp>
+            <sp>
+               <speaker>Phil-eire.</speaker>
+               <p>I would not only you <hi>(My Brother)</hi> but all the Separatiſts likewiſe that ignorantly oppoſe the Doctrine and diſcipline of the Church of <hi>England,</hi> were not almoſt, but altogether converted (as thou art) from their Anabaptiſticall and Atheiſticall Tenets: But me thinks I reade ſome other doubt in thy forehead as yet unreſolved, tell me what it is.</p>
+            </sp>
+            <sp>
+               <speaker>Philo-Pol.</speaker>
+               <p>Truly you have convinced me of ſuch manifeſt abſurdities, and alpable contradictions already, that what I ſuppoſed to be the greateſt, is now
+<pb facs="tcp:155650:5"/>the leaſt, and ſcarſe worth any ſcruple at all; but that I may be fully reſolved of a Quaere's before, It is this: Why is the Lords Prayer ſo frequently uſed among us, ſince every one cannot ſay; <hi>Forgive us our treſpaſſes, as we forgive them the treſpaſſe against us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil-eire.</speaker>
+               <p>To this I anſwer, becauſe it is an expreſſe command of our Saviour, <hi>When ye pray, pray thus,</hi> from which no man can be priviledged or exempted; ſo that he which comes into the Sanctuary with a malicious intent againſt his neighbour, is not fit to pray at all; but if any Prayer, let him uſe the Prayer of Pray<g ref="char:EOLhyphen"/>ers, that lively patterne of all Coeleſtiall Contemplations.</p>
+            </sp>
+            <sp>
+               <speaker>Philo-Pol.</speaker>
+               <p>Is it not lawfull to uſe any other forme of Prayer beſides the Lords Prayer?</p>
+            </sp>
+            <sp>
+               <speaker>Phil-eir.</speaker>
+               <p>Yes, you may according to your ſeverall occurrences and neceſſities, ſo the ſenſe be not diſlonant from it, &amp; that (avoiding prolixity, and long Phariſaicall Prayers) you come as near the conciſeneſſe of our Lords Prayer as you can, in breathing out your ſoule (as the cuſtome was in the Primitive times) in ſhort Ejaculations to Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>Philo-Pol.</speaker>
+               <p>No better time then now: Since none of theſe things which I have mentioned, can be any Obſtruction to Peace, and Prayer is the onely meanes to obtaine it, ſince we are ſo ſweetly reconciled each to other, let us pray for the peace of <hi>Ieruſalem.</hi>
+               </p>
+            </sp>
+            <stage>
+               <hi>Philo-Polemus,</hi> and <hi>Phil-ei<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enus</hi> conclude in Prayer.</stage>
+            <p>
+               <hi>OH thou that are the God of Peace, and makeſt wars to ceaſe in all the world: Firſt, (we beſeech ther) ſend downe into our hearts that Peace which paſſeth all <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>derſtanding, and then (ſweet Ieſu) worke an happy union between our Gracious King, and His Loyall Parliament, that under him we may live a quiet and peaceable life here, and this life ended, we may be entertained into that ſoule-raviſhing peace and eternall ſecu<g ref="char:EOLhyphen"/>rity in the higheſt Heavens.</hi> Amen.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Ianuary 2. 1643.</date>
+               </dateline>
+            </opener>
+            <p>I Have peruſed this DIALOGVE, entituled <hi>Peace and no Peaece,</hi> and find nothing therein contrary to faith or good manners, and thinke it fitting to be printed and publiſhed.</p>
+            <closer>
+               <signed>Iohn Sidenham.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
